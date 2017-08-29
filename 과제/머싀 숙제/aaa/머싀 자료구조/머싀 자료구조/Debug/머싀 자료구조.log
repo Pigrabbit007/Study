@@ -1,0 +1,13 @@
+﻿빌드 시작: 2016-10-13 오전 12:18:18
+     1>2 노드의 "D:\Study\과제\머싀 숙제\aaa\머싀 자료구조\머싀 자료구조\머싀 자료구조.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "소스.cpp"
+         소스.cpp
+     1>d:\study\과제\머싀 숙제\aaa\머싀 자료구조\머싀 자료구조\소스.cpp(52): warning C4715: 'peek' : 모든 제어 경로에서 값을 반환하지는 않습니다.
+     1>d:\study\과제\머싀 숙제\aaa\머싀 자료구조\머싀 자료구조\소스.cpp(44): warning C4715: 'pop' : 모든 제어 경로에서 값을 반환하지는 않습니다.
+     1>d:\study\과제\머싀 숙제\aaa\머싀 자료구조\머싀 자료구조\소스.cpp(142): error C4716: 'eval' : 값을 반환해야 합니다.
+     1>"D:\Study\과제\머싀 숙제\aaa\머싀 자료구조\머싀 자료구조\머싀 자료구조.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:01.01

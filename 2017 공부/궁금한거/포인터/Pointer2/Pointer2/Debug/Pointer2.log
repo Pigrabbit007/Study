@@ -1,0 +1,5 @@
+﻿  Pointer2.cpp
+d:\study\2017 공부\궁금한거\포인터\pointer2\pointer2\pointer2.cpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+d:\study\2017 공부\궁금한거\포인터\pointer2\pointer2\pointer2.cpp(8): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+  Pointer2.vcxproj -> D:\Study\2017 공부\궁금한거\포인터\Pointer2\Debug\Pointer2.exe
+  Pointer2.vcxproj -> D:\Study\2017 공부\궁금한거\포인터\Pointer2\Debug\Pointer2.pdb (Partial PDB)

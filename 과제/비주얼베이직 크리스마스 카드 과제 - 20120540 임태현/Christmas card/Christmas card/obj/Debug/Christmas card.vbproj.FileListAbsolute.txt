@@ -1,0 +1,9 @@
+D:\Study\과제\비주얼베이직 크리스마스 카드 과제 - 20120540 임태현\Christmas card\Christmas card\obj\Debug\Christmas_card.Form1.resources
+D:\Study\과제\비주얼베이직 크리스마스 카드 과제 - 20120540 임태현\Christmas card\Christmas card\obj\Debug\Christmas_card.Resources.resources
+D:\Study\과제\비주얼베이직 크리스마스 카드 과제 - 20120540 임태현\Christmas card\Christmas card\obj\Debug\Christmas card.vbproj.GenerateResource.Cache
+D:\Study\과제\비주얼베이직 크리스마스 카드 과제 - 20120540 임태현\Christmas card\Christmas card\bin\Debug\Christmas card.exe
+D:\Study\과제\비주얼베이직 크리스마스 카드 과제 - 20120540 임태현\Christmas card\Christmas card\bin\Debug\Christmas card.pdb
+D:\Study\과제\비주얼베이직 크리스마스 카드 과제 - 20120540 임태현\Christmas card\Christmas card\bin\Debug\Christmas card.xml
+D:\Study\과제\비주얼베이직 크리스마스 카드 과제 - 20120540 임태현\Christmas card\Christmas card\obj\Debug\Christmas card.exe
+D:\Study\과제\비주얼베이직 크리스마스 카드 과제 - 20120540 임태현\Christmas card\Christmas card\obj\Debug\Christmas card.xml
+D:\Study\과제\비주얼베이직 크리스마스 카드 과제 - 20120540 임태현\Christmas card\Christmas card\obj\Debug\Christmas card.pdb

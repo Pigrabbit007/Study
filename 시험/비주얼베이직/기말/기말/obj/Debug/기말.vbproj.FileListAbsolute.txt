@@ -1,0 +1,9 @@
+D:\Study\시험\비주얼베이직\기말\기말\bin\Debug\기말.exe
+D:\Study\시험\비주얼베이직\기말\기말\bin\Debug\기말.pdb
+D:\Study\시험\비주얼베이직\기말\기말\bin\Debug\기말.xml
+D:\Study\시험\비주얼베이직\기말\기말\obj\Debug\기말.Form1.resources
+D:\Study\시험\비주얼베이직\기말\기말\obj\Debug\기말.Resources.resources
+D:\Study\시험\비주얼베이직\기말\기말\obj\Debug\기말.vbproj.GenerateResource.Cache
+D:\Study\시험\비주얼베이직\기말\기말\obj\Debug\기말.exe
+D:\Study\시험\비주얼베이직\기말\기말\obj\Debug\기말.xml
+D:\Study\시험\비주얼베이직\기말\기말\obj\Debug\기말.pdb

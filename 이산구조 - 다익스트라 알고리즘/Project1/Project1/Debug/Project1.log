@@ -1,0 +1,12 @@
+﻿빌드 시작: 2015-10-13 오후 2:34:13
+     1>2 노드의 "D:\공부할래\이산구조 - 다익스트라 알고리즘\Project1\Project1\Project1.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "소스.cpp"
+         소스.cpp
+     1>d:\공부할래\이산구조 - 다익스트라 알고리즘\project1\project1\소스.cpp(9): error C2562: 'main' : 'void' 함수에서 값을 반환하고 있습니다.
+                 d:\공부할래\이산구조 - 다익스트라 알고리즘\project1\project1\소스.cpp(7) : 'main' 선언을 참조하십시오.
+     1>"D:\공부할래\이산구조 - 다익스트라 알고리즘\Project1\Project1\Project1.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.28

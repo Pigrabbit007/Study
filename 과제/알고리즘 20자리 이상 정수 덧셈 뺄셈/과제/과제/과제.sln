@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "과제", "과제\과제.vcxproj", "{5D74AFF0-D296-4098-8F99-5A2EF1501F6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D74AFF0-D296-4098-8F99-5A2EF1501F6D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5D74AFF0-D296-4098-8F99-5A2EF1501F6D}.Debug|Win32.Build.0 = Debug|Win32
+		{5D74AFF0-D296-4098-8F99-5A2EF1501F6D}.Release|Win32.ActiveCfg = Release|Win32
+		{5D74AFF0-D296-4098-8F99-5A2EF1501F6D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
