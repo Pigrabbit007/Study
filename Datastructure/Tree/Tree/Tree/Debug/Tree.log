@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+d:\study\datastructure\tree\tree\tree\stdafx.cpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+d:\study\datastructure\tree\tree\tree\stdafx.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+d:\study\datastructure\tree\tree\tree\targetver.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  Tree.cpp
+d:\study\datastructure\tree\tree\tree\tree.cpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+d:\study\datastructure\tree\tree\tree\tree.cpp(12): warning C4091: 'typedef ': 변수를 선언하지 않으면 'node' 왼쪽은 무시됩니다.
+d:\study\datastructure\tree\tree\tree\tree.cpp(108): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+  Tree.vcxproj -> D:\Study\Datastructure\Tree\Tree\Debug\Tree.exe
+  Tree.vcxproj -> D:\Study\Datastructure\Tree\Tree\Debug\Tree.pdb (Partial PDB)
