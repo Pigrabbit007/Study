@@ -29,22 +29,17 @@ void pop(stack **top) {
 }
 
 int peek(stack **top) {
-	stack *tmp;
-	tmp = *top;
-	if (top == EMPTY) {
-		printf("스택이 비었습니다.");
+	if (*top == NULL)
 		return NULL;
-	}
 	else return (*top)->data;
 }
 
-int main()
-{
-	stack *top=NULL;
-
+void main() {
+	stack *top=0;
+	
 	push(&top, 10);
-	push(&top, 20);
 	push(&top, 30);
+	push(&top, 20);
 
 	printf("%d\n", peek(&top));
 	pop(&top);
@@ -52,7 +47,4 @@ int main()
 	pop(&top);
 	printf("%d\n", peek(&top));
 	pop(&top);
-
-    return 0;
 }
-

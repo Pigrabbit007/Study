@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "stdafx.h"
 #define MIN_X 0
 #define MAX_X 5
 #define MIN_Y 0

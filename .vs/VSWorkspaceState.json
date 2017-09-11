@@ -1,10 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Datastructure\\Queue",
-    "\\Datastructure\\Queue\\Queue",
+    "\\C언어 특강 손코딩 연습\\공 튀기기\\공튀기기",
+    "\\C언어 특강 손코딩 연습\\공 튀기기\\공튀기기\\공튀기기",
+    "\\Datastructure",
+    "\\Datastructure\\Stack",
     "\\알고스팟 문제",
     "\\알고스팟 문제\\튜토리얼"
   ],
+  "SelectedNode": "\\Datastructure\\Stack\\Stack.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -80,6 +80,13 @@
   <ItemGroup>
     <ClCompile Include="공튀기기.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="공튀기기.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\Datastructure\Queue\Queue\stdafx.h" />
+    <ClInclude Include="..\..\..\..\Datastructure\Queue\Queue\targetver.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
